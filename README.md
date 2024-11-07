@@ -32,3 +32,13 @@ basa el lenguaje
 https://drive.google.com/drive/folders/1TQoaKKQPpu-OiHtBYu__D5ud8hCLPZpo?usp=sharing
 
 ## Coevaluacion de mi compañero Santiago Ronaldo Chavez Piñon
+Mi compañero Ronaldo tuvo un desempeño excelente en cuanto a trabajar en las clases
+y en el proyecto, tal vez podria mejorar la forma en la que hace el bosquejo
+de metodos para mejorar nuestro codigo, ya que como vimos la situacion,
+su fuerte de trabajo era hacer conexiones de cables a la placa
+e identificacion de pines, asi que nos dividimos un poco el trabajo
+pero de ahi en fuera, su actitud es excelente en cuanto al trabajo
+asi como su motivacion para lograr los objetivos del proyecto
+
+### Calificacion promedio de mi compañero
+9.0
